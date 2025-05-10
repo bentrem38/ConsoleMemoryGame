@@ -1,0 +1,37 @@
+# Java compiled files
+*.class
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+.metadata
+
+# Build directories
+bin/
+build/
+out/
+target/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# BlueJ or other educational tools
+*.ctxt
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Leaderboard file (optional)
+Resources/LeaderBoard.txt
